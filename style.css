@@ -1,0 +1,85 @@
+*{
+    margin:0;
+   padding: 0;
+   box-sizing: border-box;
+   list-style: none;
+   text-decoration: none;
+   text-decoration: white;
+}
+
+header{
+    display: flex;
+    margin: 5px;
+    align-items: center;
+    
+}
+h1{
+    margin-left: 50px;
+    width: 70%;
+    margin: 30px;
+    margin-bottom: 30px;
+}
+
+a{
+    color: white;
+}
+
+ul{
+    display: flex;
+    
+}
+li{
+    margin: 8px;
+    font-size: 1.5rem;
+}
+
+figure{
+    justify-content: flex-start;
+}
+.boina{
+    width: 5vw
+    
+}
+
+body{
+    background-color: #161720;
+    color: white;
+}
+
+main{
+    background-color: #161720;
+    
+}
+.container{
+    display: flex;
+    border: 2px solid white;
+    flex-wrap:wrap;
+    
+}
+
+.thomas{width: 20vw; } 
+.athurS{width: 20vw; }
+.john{width: 20vw;}
+.polly{width: 20vw; }
+
+.tho{ margin-bottom: 40px;}
+.art{ margin-bottom: 40px;}
+.joh{ margin-bottom: 40px;}
+.pol{ margin-bottom: 40px;}
+
+
+
+
+.face{width: 2vw;}
+.insta{width: 2vw;}
+.github{width: 2vw;}
+
+
+
+footer{
+    margin: 50px;
+}
+.redes{
+    margin-bottom: 20px;
+}
+.face{margin-right: 10px;} .insta{margin-right: 10px;} .github{margin-right: 10px;}
